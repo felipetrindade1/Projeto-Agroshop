@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mercadopago/dx-php": "2.5.3",
+        "developercielo/api-3.0-php": "^1.3"
+    }
+}

@@ -1,0 +1,25 @@
+#container{
+    padding-left: 5%;
+    padding-top: 1%;
+}
+
+#resultado-pesquisa{
+    padding: 5%;
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+
+.card{
+    padding: 1%;
+    margin: 1%;
+    columns: 100px 2;
+}
+
+#add{
+    margin: 1%; 
+    position: relative;
+    top: 1%;
+}
+
+
